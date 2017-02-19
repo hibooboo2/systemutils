@@ -40,7 +40,6 @@ func newWindowsWatcher(activeThreshold, pollFrequency time.Duration) (Monitor, e
 	if err != nil {
 		return nil, err
 	}
-	go w.timeUpdater()
 	go w.activityPoller()
 	return &w, nil
 }
