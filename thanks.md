@@ -5,3 +5,5 @@ Thanks to https://github.com/MarinX/keylogger for the linux activity.
 Thanks to Joshua Barone @jbarone on gophers slack.
 
 Thanks to http://stackoverflow.com/questions/14842980/go-cgo-and-linking
+
+Thanks to https://github.com/Xe for the help with testing mac.
